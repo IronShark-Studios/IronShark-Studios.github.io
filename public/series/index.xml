@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on IronShark</title>
+    <link>http://localhost:1313/series/</link>
+    <description>Recent content in Series on IronShark</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>Xin@ironshark.org (Xin)</managingEditor>
+    <webMaster>Xin@ironshark.org (Xin)</webMaster>
+    <copyright>© 2025 Xin</copyright>
+    <lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Personal_Configuration</title>
+      <link>http://localhost:1313/series/personal_configuration/</link>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+      <author>Xin@ironshark.org (Xin)</author>
+      <guid>http://localhost:1313/series/personal_configuration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Configuring_Spacemacs</title>
+      <link>http://localhost:1313/series/configuring_spacemacs/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      <author>Xin@ironshark.org (Xin)</author>
+      <guid>http://localhost:1313/series/configuring_spacemacs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rethink,Refactor,Rebuild.</title>
+      <link>http://localhost:1313/series/rethinkrefactorrebuild./</link>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+      <author>Xin@ironshark.org (Xin)</author>
+      <guid>http://localhost:1313/series/rethinkrefactorrebuild./</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Art_Fundamentals</title>
+      <link>http://localhost:1313/series/art_fundamentals/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <author>Xin@ironshark.org (Xin)</author>
+      <guid>http://localhost:1313/series/art_fundamentals/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Art-180</title>
+      <link>http://localhost:1313/series/art-180/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      <author>Xin@ironshark.org (Xin)</author>
+      <guid>http://localhost:1313/series/art-180/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

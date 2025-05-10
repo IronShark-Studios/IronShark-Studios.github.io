@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Configuring_Spacemacs on IronShark</title>
+    <link>http://localhost:1313/series/configuring_spacemacs/</link>
+    <description>Recent content in Configuring_Spacemacs on IronShark</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>Xin@ironshark.org (Xin)</managingEditor>
+    <webMaster>Xin@ironshark.org (Xin)</webMaster>
+    <copyright>© 2025 Xin</copyright>
+    <lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/configuring_spacemacs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Batteries Included.</title>
+      <link>http://localhost:1313/posts/2024-06-configuringspacemacs-1/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      <author>Xin@ironshark.org (Xin)</author>
+      <guid>http://localhost:1313/posts/2024-06-configuringspacemacs-1/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

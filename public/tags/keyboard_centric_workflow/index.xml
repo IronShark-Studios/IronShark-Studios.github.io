@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keyboard_Centric_Workflow on IronShark</title>
+    <link>http://localhost:1313/tags/keyboard_centric_workflow/</link>
+    <description>Recent content in Keyboard_Centric_Workflow on IronShark</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>Xin@ironshark.org (Xin)</managingEditor>
+    <webMaster>Xin@ironshark.org (Xin)</webMaster>
+    <copyright>© 2025 Xin</copyright>
+    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/keyboard_centric_workflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Diving into Emacs with EXWM</title>
+      <link>http://localhost:1313/posts/2023-01-emacswithexwm/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      <author>Xin@ironshark.org (Xin)</author>
+      <guid>http://localhost:1313/posts/2023-01-emacswithexwm/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2023-01-emacswithexwm/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
