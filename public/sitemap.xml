@@ -15,6 +15,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/2025-10-func-over-form/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/2024-26-convertingtoguix/</loc>
     <lastmod>2024-06-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>

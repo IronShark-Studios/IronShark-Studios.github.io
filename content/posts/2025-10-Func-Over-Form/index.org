@@ -1,0 +1,38 @@
+#+title: Function Over Form
+#+date: 2025-10-15
+#+categories[]: Technology
+#+tags[]: Linux, Nix, Vim, Personal_Configuration
+
+
+
+  Recently I decided to transition from Emacs to Vim. This post explains why,
+and how I did so. Without getting into the details of the implementation itself.
+I plan on doing a seperate post going of the whole config in detail once I have
+a chance to refactor it, and clean things up. However if you really want to see
+it as it stands. It can be found on my [[https://github.com/IronShark-Studios/Technonomicon][GitHub]].
+
+  The main goal is and has always been. A keyboard driven work flow. I had hoped
+to achive this using Emacs and EXWM. But ultimately, I found the system to be
+unweildly to actually use. I want to acknowledge that this is due to my own
+skills, and knowledge. Not something inherhent to Emacs itself, and in a way.
+The choice to use Vim instead of Emacs, feels very similar to my choice to use
+NixOS instead of Guix. Essentially both Nix, and Vim are geared to serve a
+slightly more main stream audiance and are more easily used by a beginners.
+
+  As for Vim, well I am already familar with modal editing as an EVIL mode user.
+So there was no reason for me to look much farther then that. I did what
+something more "batteries included" though. I have recently started [[https://www.theodinproject.com/paths/foundations/courses/foundations][The Odin Project: Foundations]] Course, and they recommed using VS Code. Simply so you have something that works out of the box. Also trying to figure out /what/ I wanted Emacs to do, was a large part of the problem. So have some sane defaults and limitations put on me, by a configuration framework would be helpfull.
+
+  Ultimately I went with LazyVim. Partly because it seemed to be a similar level of configuration to DoomEmacs. With a core of default settings, and the rest that can be enabled as needed. Partly becuase it has a clearly documented way of being installed and managed with NixOS, and mostly becuase it was the first one I came across that seemed reasonable to use. Plus the bonus of it seeming to be the base of other more "IDE" style Vim distrobutions.
+
+The only major configuration changes I have needed to make so far, was the
+addition of `obsidian.nvim` for better integration with Obsidian. Wich I am
+using to replace ORG mode for knowledge management tasks. Otherwise at this
+point it honestly feels like a less brittle version of what I was trying to
+build with Emacs. Hopefully I will learn some good lessons about what to expect
+from this style editor, and one day achive the dream of an entirely keyboard
+driven workflow.
+
+
+
+
