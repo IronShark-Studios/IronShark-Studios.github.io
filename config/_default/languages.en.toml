@@ -17,7 +17,7 @@ title = "IronShark"
 [params.author]
    name = "Xin"
    email = "Xin@ironshark.org"
-   image = "assets/img/cool-sire.png"
+   image = "assets/img/cool-sire-cropped.png"
    imageQuality = 96
    headline = "Student, Artist, Programmer."
 #   bio = "."
