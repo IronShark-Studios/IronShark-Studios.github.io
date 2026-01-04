@@ -34,7 +34,7 @@
 [[main]]
   name = "Baduk"
   parent = "Categories"
-  pageRef = "categories/Baduk"
+  pageRef = "categories/Academia"
   weight = 20
 
 [[main]]
