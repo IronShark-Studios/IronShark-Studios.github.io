@@ -1,4 +1,4 @@
-#+title: Test Post
+#+title: First Solo PC Build
 #+date: 2026-01-01
 #+categories[]: Academia
 #+tags[]: Digital_Art, Linux, NixOS, Art_for_Beginners, Book_Reports, Vignette 
