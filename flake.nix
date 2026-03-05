@@ -17,10 +17,12 @@
             hugo
             go
             git
+            nodejs
           ];
 
           shellHook = ''
-            echo "Hugo version: $(hugo version)"
+            echo "Hugo Version: $(hugo version)"
+            echo "Node Version: $(node -v)"
           '';
         };
       }
