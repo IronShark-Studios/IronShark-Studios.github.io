@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home | My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Home</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_d618173b9ba69b7d.png</url>
+      <title>Home</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>Test-blog-post</title>
+      <link>http://localhost:1313/post/test_blog_post/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/test_blog_post/</guid>
+      <description>&lt;h2 id=&#34;test-heading&#34;&gt;Test Heading&lt;/h2&gt;
+&lt;p&gt;test content&lt;/p&gt;
+&lt;h2 id=&#34;second-heading&#34;&gt;Second Heading&lt;/h2&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;[34/507]&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum efficitur justo et pellentesque. In semper velit nec eros volutpat, sit amet porta turpis luctus. Curabitur mauris orci, volutpat eu metus in, dictum venenatis lorem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce placerat est et lorem commodo scelerisque. Duis gravida mattis blandit. In hac habitasse platea dictumst. Pellentesque ac dolor euismod, ultricies purus ac, ultrices augue. Proin ac luctus ex. Donec sagittis scelerisque tincidunt. Nam porttitor feugiat lectus.&lt;/p&gt;
+&lt;p&gt;Suspendisse maximus, velit quis suscipit euismod, urna quam pulvinar est, id dictum erat sapien a magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed augue efficitur, rutrum nisl scelerisque, pretium enim. Phasellus eu diam orci. Suspendisse nec est quis nulla placerat iaculis. Etiam cursus purus fringilla dolor laoreet semper. Suspendisse euismod justo in elit tempus porttitor. Aenean volutpat suscipit ligula, sit amet fringilla ligula condimentum vel. Maecenas ultrices posuere augue, et blandit felis suscipit quis. Phasellus et tellus dapibus, feugiat erat sit amet, laoreet purus. Nam ullamcorper vestibulum interdum. Aenean egestas mauris erat, nec viverra neque aliquet efficitur. Nam tortor est, posuere in urna quis, placerat mattis ante. Donec tincidunt dui eget mattis varius. Maecenas lobortis lectus sed felis congue, vel viverra erat tristique. Cras ac sem tincidunt, dapibus lectus ullamcorper, molestie sem.&lt;/p&gt;
+&lt;p&gt;In bibendum augue ut aliquam iaculis. Pellentesque urna leo, eleifend eu nulla in, molestie eleifend ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus at arcu feugiat, pulvinar enim non, tincidunt nunc. Donec molestie purus sed varius venenatis. Mauris tempor convallis dapibus. Nullam turpis nibh, semper ut lorem sit amet, venenatis tincidunt dolor.&lt;/p&gt;
+&lt;p&gt;Suspendisse eget tincidunt turpis. Vestibulum in finibus metus. Duis hendrerit imperdiet dolor eget interdum. Integer vulputate turpis a velit posuere, a vulputate lorem porta. Etiam sit amet purus euismod, feugiat dolor ut, vestibulum libero. Integer semper suscipit lorem, ac placerat elit posuere egestas. Nunc egestas libero sit amet justo consequat, vel rhoncus leo imperdiet. Suspendisse sodales lectus eget ipsum lobortis vestibulum. Pellentesque nec tortor enim.&lt;/p&gt;
+&lt;p&gt;Duis odio est, egestas quis porttitor id, pulvinar eu turpis. Nullam vel tempus risus. Etiam a fermentum odio. Pellentesque hendrerit porta leo, id cursus felis. Aliquam massa neque, congue et eleifend vitae, sollicitudin ut tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam commodo pretium sem, in accumsan tellus aliquam nec.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
