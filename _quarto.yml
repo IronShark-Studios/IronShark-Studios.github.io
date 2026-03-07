@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "IronShark"
+  site-url: "https://IronShark.org" # Required for sitemaps and Giscus
+  google-analytics: "G-9Z2SQQEE54"      # Drop your GA Measurement ID here
+  cookie-consent: true                  # Auto-generates a clean cookie banner
+  search: true                          # Activates a lightning-fast local search bar
+  
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    html-math-method: mathjax
+    toc: true               # Auto-generates a Table of Contents for headings
+    toc-location: right     # Pins the TOC to the right side of the screen
+    code-copy: true         # Adds a "copy" button to your Emacs/Nix code blocks
+    code-fold: true         # Wraps massive config files in a "Click to Expand" toggle
+    citations-hover: true   # Shows a tooltip of your academic references
+
+comments:
+  giscus:
+    repo: "IronShark-Studios/IronShark-Studios.github.io"
+    repo-id: "R_kgDOL74rDA"
+    category: "Announcements"
+    category-id: "DIC_kwDOL74rDM4C35yG"
+    mapping: "URL"
+    reactions-enabled: true
+    theme: preferred_color_scheme 

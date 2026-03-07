@@ -14,30 +14,22 @@
       {
         devShells.default = pkgs.mkShell {
           buildInputs = with pkgs; [
-            (writeShellScriptBin "serve" "hugo server -D --disableFastRender")
-            hugo 
-            go 
             git
-            nodejs
+
+            # Scientific publishing engine
+            quarto
+            
+            # Required for executing Jupyter notebooks and Python code blocks!
+            python3
+            python3Packages.jupyter
           ];
 
           shellHook = ''
             echo "=========================================="
-            echo "🌐   Personal Blog Environment Active   🌐"
+            echo "Quarto version: $(quarto --version)"
+            echo "Python version: $(python3 --version)"
             echo "=========================================="
-            echo "Hugo version: $(hugo version | awk '{print $2}')"
-            echo "Go version:   $(go version | awk '{print $3}')"
-            echo "Node version:   $(node -V | awk '{print $4}')"
-            
-            echo ""
-            echo ""
-            echo ""
-
-            echo "Run 'serve' to start the local dev server."
-
-            echo ""
-            echo ""
-            echo ""
+            echo "Run 'quarto preview' to start the live server."
           '';
         };
       }
