@@ -21,4 +21,4 @@ about:
 
 # Welcome!
 
-This is my personal blog. I mostly write about a variety of subjects. Including Programming, Sculpture, and Self Education.
+This is my personal blog. I mostly write about a variety of subjects. Including Programming, Art, and Self Education.
