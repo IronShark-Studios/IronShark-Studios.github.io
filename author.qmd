@@ -19,5 +19,3 @@ about:
 About the author
 
 Eventually I would probably put my CV / Resume here
-
-This to test pushing and not losing cname
