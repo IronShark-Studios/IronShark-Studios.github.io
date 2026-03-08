@@ -3,6 +3,7 @@ author: Xin IronShark
 date: 2026-03-07
 draft: false
 title: 5th-test-post
+categories: ["website-building"]
 ---
 
 ``` example

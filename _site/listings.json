@@ -3,10 +3,18 @@
     "listing": "/index.html",
     "items": [
       "/posts/5th_test_post.html",
+      "/posts/sigma_test.html",
+      "/posts/omega_test_post.html",
+      "/posts/omega_sigma/index.html",
       "/posts/another_test_post.html",
+      "/posts/alpha_test_post.html",
       "/posts/post-with-code/index.html",
       "/posts/6th_and_last_hopefully.html",
       "/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/projects/website_building.html",
+    "items": []
   }
 ]

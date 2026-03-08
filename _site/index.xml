@@ -30,8 +30,75 @@
 
 
  ]]></description>
+  <category>website-building</category>
   <guid>https://IronShark.org/posts/5th_test_post.html</guid>
   <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>sigma-test</title>
+  <dc:creator>Kevin Fanning</dc:creator>
+  <link>https://IronShark.org/posts/sigma_test.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="hear-we-go" class="level1">
+
+
+
+</section>
+
+ ]]></description>
+  <guid>https://IronShark.org/posts/sigma_test.html</guid>
+  <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>omega-test-post</title>
+  <dc:creator>Kevin Fanning</dc:creator>
+  <link>https://IronShark.org/posts/omega_test_post.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="super-important-stuff" class="level1">
+
+
+
+</section>
+
+ ]]></description>
+  <guid>https://IronShark.org/posts/omega_test_post.html</guid>
+  <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>omega-sigma</title>
+  <dc:creator>Xin IronShark</dc:creator>
+  <link>https://IronShark.org/posts/omega_sigma/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="sob-emoji" class="level1">
+
+
+
+</section>
+
+ ]]></description>
+  <category>website-building</category>
+  <category>Emacs</category>
+  <guid>https://IronShark.org/posts/omega_sigma/</guid>
+  <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://IronShark.org/posts/omega_sigma/image.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>another-test-post</title>
@@ -57,6 +124,27 @@
   <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>alpha-test-post</title>
+  <dc:creator>Kevin Fanning</dc:creator>
+  <link>https://IronShark.org/posts/alpha_test_post.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="hopefully-this-works" class="level1">
+
+
+
+</section>
+
+ ]]></description>
+  <guid>https://IronShark.org/posts/alpha_test_post.html</guid>
+  <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
   <link>https://IronShark.org/posts/post-with-code/</link>
@@ -75,6 +163,7 @@
   <category>news</category>
   <category>code</category>
   <category>analysis</category>
+  <category>website-building</category>
   <guid>https://IronShark.org/posts/post-with-code/</guid>
   <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
   <media:content url="https://IronShark.org/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
