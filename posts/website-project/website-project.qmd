@@ -1,0 +1,15 @@
+---
+title: "Project: Website"
+listing:
+  contents: ["./**/*"]
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: true
+  filter-ui: false
+  fields: [image, date, title, reading-time, description]
+image: image.jpg
+page-layout: full
+title-block-banner: false
+description: "My journey building a static blog using Nix and Quarto."
+---

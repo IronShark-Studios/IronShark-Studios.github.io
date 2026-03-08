@@ -3,15 +3,35 @@ project:
 
 website:
   title: "IronShark"
+  description: "This is Kevin Fanning's personal Blog."
   site-url: "https://IronShark.org" # Required for sitemaps and Giscus
   google-analytics: "G-9Z2SQQEE54"      # Drop your GA Measurement ID here
   cookie-consent: true                  # Auto-generates a clean cookie banner
   search: true                          # Activates a lightning-fast local search bar
+  navbar:
+    right:
+      - text: About the Author
+        href: author.qmd
+      - text: Blog
+        href: blog.qmd 
+      - text: Projects
+        href: projects.qmd
+      - text: Archive
+        href: archive.qmd
+      - text: GitHub
+        icon: github
+        href: https://github.com/IronShark-Studios
+      - icon: youtube
+        text: YouTube
+        href: https://www.youtube.com/@Xin_IronShark
+      - icon: rss
+        text: RSS
+        href: blog.xml
   
 format:
   html:
     theme:
-      light: flatly
+      light: cerulean
       dark: darkly
     html-math-method: mathjax
     toc: true               # Auto-generates a Table of Contents for headings

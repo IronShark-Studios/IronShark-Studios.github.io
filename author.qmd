@@ -1,11 +1,8 @@
 ---
-title: "Xin IronShark"
-subtitle: "Student, Artist, Programmer"
+title: "Kevin Fanning"
 image: profile.png
-toc: false
 about:
-  template: jolla
-  image-shape: rounded
+  template: trestles
   links:
     - icon: github
       text: Github
@@ -19,6 +16,6 @@ about:
 
 ---
 
-# Welcome!
+About the author
 
-This is my personal blog. I mostly write about a variety of subjects. Including Programming, Sculpture, and Self Education.
+Eventually I would probably put my CV / Resume here

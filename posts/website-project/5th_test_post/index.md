@@ -4,7 +4,9 @@ date: 2026-03-07
 draft: false
 title: 5th-test-post
 categories: ["website-building"]
+image: image.jpg
 ---
+
 
 ``` example
 https://en.wikipedia.org/wiki/File:Norddeutscher_Lloyd_emblem.svg
@@ -24,6 +26,9 @@ February 1857. It developed into one of the most important German
 shipping companies of the late 19th and early 20th centuries, and was
 instrumental in the economic development of Bremen and Bremerhaven. On 1
 September 1970, the company merged with Hamburg America Line (HAPAG) to
-form Hapag-Lloyd.
+form Hapag-Lloyd. 
 
+
+[[file:image.jpg]]
+@@md:![This is my awesome caption](image.jpg)@@
 $E=mc^2$

@@ -16,9 +16,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "IronShark",
+    "title": "Xin IronShark",
     "section": "",
-    "text": "5th-test-post\n\n\n\nwebsite-building\n\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n\nXin IronShark\n\n\n\n\n\n\n\n\n\n\n\n\nsigma-test\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n\nKevin Fanning\n\n\n\n\n\n\n\n\n\n\n\n\nomega-test-post\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n\nKevin Fanning\n\n\n\n\n\n\n\n\n\n\n\n\nomega-sigma\n\n\n\nwebsite-building\n\nEmacs\n\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n\nXin IronShark\n\n\n\n\n\n\n\n\n\n\n\n\nanother-test-post\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n\nXin IronShark\n\n\n\n\n\n\n\n\n\n\n\n\nalpha-test-post\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n\nKevin Fanning\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\nwebsite-building\n\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\n6th-and-last-hopefully\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n\nXin IronShark\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 4, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Welcome!\nThis is my personal blog. I mostly write about a variety of subjects. Including Programming, Sculpture, and Self Education."
   },
   {
     "objectID": "about.html",
@@ -82,5 +82,68 @@
     "title": "alpha-test-post",
     "section": "",
     "text": "Hopefully this works!"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "IronShark",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nProject: Website\n\n\nMy journey building a static blog using Nix and Quarto.\n\n\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nsigma-sigma\n\n\n\ntrue\n\ntrue\n\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nsigma-test\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nomega-test-post\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n5th-test-post\n\n\n\nwebsite-building\n\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n6th-and-last-hopefully\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nomega-sigma\n\n\n\nwebsite-building\n\nEmacs\n\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nanother-test-post\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n2 min\n\n\n\n\n\n\n\n\n\n\n\nalpha-test-post\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\nwebsite-building\n\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\na-third-test-blog-post\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 4, 2026\n\n1 min\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "Archive",
+    "section": "",
+    "text": "Project: Website\n\n\n\n\n\n\n\n\n\n\nsigma-test\n\n\n\n\n\nMar 7, 2026\n\n\n\n\n\n\n\nomega-test-post\n\n\n\n\n\nMar 7, 2026\n\n\n\n\n\n\n\n5th-test-post\n\n\n\n\n\nMar 7, 2026\n\n\n\n\n\n\n\n6th-and-last-hopefully\n\n\n\n\n\nMar 7, 2026\n\n\n\n\n\n\n\nomega-sigma\n\n\n\n\n\nMar 7, 2026\n\n\n\n\n\n\n\nanother-test-post\n\n\n\n\n\nMar 7, 2026\n\n\n\n\n\n\n\nalpha-test-post\n\n\n\n\n\nMar 7, 2026\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\nMar 7, 2026\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\nMar 4, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "project-homepage-template.html",
+    "href": "project-homepage-template.html",
+    "title": "Project: Name",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\nArchive\n\n\n\n\n\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nKevin Fanning\n\n\n\n\n\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nXin IronShark\n\n\n\n\n\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject: Website\n\n\nMy journey building a static blog using Nix and Quarto.\n\n\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nalpha-test-post\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nanother-test-post\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n2 min\n\n\n\n\n\n\n\n\n\n\n\nomega-sigma\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nomega-test-post\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nsigma-test\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n5th-test-post\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n6th-and-last-hopefully\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nMar 4, 2026\n\n1 min\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "IronShark",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nProject: Website\n\n\nMy journey building a static blog using Nix and Quarto.\n\n\n\n\n1 min\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/website-project/6th_and_last_hopefully.html",
+    "href": "posts/website-project/6th_and_last_hopefully.html",
+    "title": "6th-and-last-hopefully",
+    "section": "",
+    "text": "\\(E=mc^2\\)\nA ship classification society or ship classification organisation is a non-governmental organization that establishes and maintains technical standards for the construction and operation of ships and offshore structures. Classification societies certify that the construction of a vessel complies with relevant standards and carry out regular surveys in service to ensure continuing compliance with the standards. Currently, more than 50 organizations describe their activities as including marine classification, twelve of which are members of the International Association of Classification Societies.[1]\nA classification certificate issued by a classification society recognised by the proposed ship register is required for a ship's owner to be able to register the ship and to obtain marine insurance on the ship, and may be required to be produced before a ship's entry into some ports or waterways, and may be of interest to charterers and potential buyers. To avoid liability, classification societies explicitly disclaim responsibility for the safety, fitness for purpose, or seaworthiness of the ship, but is a verification only that the vessel is in compliance with the classification standards of the society issuing the classification certificate.[2][3]"
+  },
+  {
+    "objectID": "posts/website-project/5th_test_post.html",
+    "href": "posts/website-project/5th_test_post.html",
+    "title": "5th-test-post",
+    "section": "",
+    "text": "https://en.wikipedia.org/wiki/File:Norddeutscher_Lloyd_emblem.svg\nFrom Wikipedia, the free encyclopedia Norddeutscher Lloyd\nCompany type Joint-stock company Industry Shipping, transportation Genre Shipping Predecessor Ocean Steam Navigation Company Founded 1857 in Bremen, Germany Founder Hermann Henrich Meier Defunct 1 September 1970 Fate Merged with Hamburg America Line in 1970 Successor Hapag-Lloyd Area served Transatlantic, Mediterranean, Asia, and Australia Key people Co-founder and Executive Chairman Eduard Crüsemann Norddeutscher Lloyd (NDL; lit. North German Lloyd) was a German shipping company. It was founded by Hermann Henrich Meier and Eduard Crüsemann in Bremen on 20 February 1857. It developed into one of the most important German shipping companies of the late 19th and early 20th centuries, and was instrumental in the economic development of Bremen and Bremerhaven. On 1 September 1970, the company merged with Hamburg America Line (HAPAG) to form Hapag-Lloyd.\n[[file:image.jpg]] @@md:@@ \\(E=mc^2\\)"
+  },
+  {
+    "objectID": "posts/website-project/website-project.html",
+    "href": "posts/website-project/website-project.html",
+    "title": "Project: Website",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5th-test-post\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n6th-and-last-hopefully\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n1 min\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/website-project/5th_test_post/index.html",
+    "href": "posts/website-project/5th_test_post/index.html",
+    "title": "5th-test-post",
+    "section": "",
+    "text": "https://en.wikipedia.org/wiki/File:Norddeutscher_Lloyd_emblem.svg\nFrom Wikipedia, the free encyclopedia Norddeutscher Lloyd\nCompany type Joint-stock company Industry Shipping, transportation Genre Shipping Predecessor Ocean Steam Navigation Company Founded 1857 in Bremen, Germany Founder Hermann Henrich Meier Defunct 1 September 1970 Fate Merged with Hamburg America Line in 1970 Successor Hapag-Lloyd Area served Transatlantic, Mediterranean, Asia, and Australia Key people Co-founder and Executive Chairman Eduard Crüsemann Norddeutscher Lloyd (NDL; lit. North German Lloyd) was a German shipping company. It was founded by Hermann Henrich Meier and Eduard Crüsemann in Bremen on 20 February 1857. It developed into one of the most important German shipping companies of the late 19th and early 20th centuries, and was instrumental in the economic development of Bremen and Bremerhaven. On 1 September 1970, the company merged with Hamburg America Line (HAPAG) to form Hapag-Lloyd.\n[[file:image.jpg]] @@md:@@ \\(E=mc^2\\)"
+  },
+  {
+    "objectID": "author.html",
+    "href": "author.html",
+    "title": "Kevin Fanning",
+    "section": "",
+    "text": "About the author\nEventually I would probably put my CV / Resume here"
   }
 ]

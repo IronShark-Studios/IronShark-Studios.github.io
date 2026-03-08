@@ -16,5 +16,70 @@
   {
     "listing": "/projects/website_building.html",
     "items": []
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/website-project/website-project.html",
+      "/posts/sigma_sigma/index.html",
+      "/posts/sigma_test.html",
+      "/posts/omega_test_post.html",
+      "/posts/website-project/5th_test_post/index.html",
+      "/posts/website-project/6th_and_last_hopefully.html",
+      "/posts/omega_sigma/index.html",
+      "/posts/another_test_post.html",
+      "/posts/alpha_test_post.html",
+      "/posts/post-with-code/index.html",
+      "/posts/a_third_test_blog_post.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/archive.html",
+    "items": [
+      "/posts/website-project/website-project.html",
+      "/posts/sigma_test.html",
+      "/posts/omega_test_post.html",
+      "/posts/website-project/5th_test_post/index.html",
+      "/posts/website-project/6th_and_last_hopefully.html",
+      "/posts/omega_sigma/index.html",
+      "/posts/another_test_post.html",
+      "/posts/alpha_test_post.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/project-homepage-template.html",
+    "items": [
+      "/archive.html",
+      "/author.html",
+      "/blog.html",
+      "/index.html",
+      "/posts/website-project/website-project.html",
+      "/projects.html",
+      "/posts/alpha_test_post.html",
+      "/posts/another_test_post.html",
+      "/posts/omega_sigma/index.html",
+      "/posts/omega_test_post.html",
+      "/posts/post-with-code/index.html",
+      "/posts/sigma_test.html",
+      "/posts/website-project/5th_test_post/index.html",
+      "/posts/website-project/6th_and_last_hopefully.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/posts/website-project/website-project.html"
+    ]
+  },
+  {
+    "listing": "/posts/website-project/website-project.html",
+    "items": [
+      "/posts/website-project/5th_test_post/index.html",
+      "/posts/website-project/6th_and_last_hopefully.html"
+    ]
   }
 ]

@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>IronShark</title>
+<link>https://IronShark.org/blog.html</link>
+<atom:link href="https://IronShark.org/blog.xml" rel="self" type="application/rss+xml"/>
+<description>This is Kevin Fanning&#39;s personal Blog.</description>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Sat, 07 Mar 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title></title>
+  <dc:creator>Xin IronShark</dc:creator>
+  <link>https://IronShark.org/posts/sigma_sigma/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>true</category>
+  <category>true</category>
+  <guid>https://IronShark.org/posts/sigma_sigma/</guid>
+  <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>sigma-test</title>
+  <dc:creator>Kevin Fanning</dc:creator>
+  <link>https://IronShark.org/posts/sigma_test.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="hear-we-go" class="level1">
+
+
+
+</section>
+
+ ]]></description>
+  <guid>https://IronShark.org/posts/sigma_test.html</guid>
+  <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>omega-test-post</title>
+  <dc:creator>Kevin Fanning</dc:creator>
+  <link>https://IronShark.org/posts/omega_test_post.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="super-important-stuff" class="level1">
+
+
+
+</section>
+
+ ]]></description>
+  <guid>https://IronShark.org/posts/omega_test_post.html</guid>
+  <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>5th-test-post</title>
+  <dc:creator>Xin IronShark</dc:creator>
+  <link>https://IronShark.org/posts/website-project/5th_test_post/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<pre class="example"><code>https://en.wikipedia.org/wiki/File:Norddeutscher_Lloyd_emblem.svg</code></pre>
+<p>From Wikipedia, the free encyclopedia Norddeutscher Lloyd</p>
+<p>Company type Joint-stock company Industry Shipping, transportation Genre Shipping Predecessor Ocean Steam Navigation Company Founded 1857 in Bremen, Germany Founder Hermann Henrich Meier Defunct 1 September 1970 Fate Merged with Hamburg America Line in 1970 Successor Hapag-Lloyd Area served Transatlantic, Mediterranean, Asia, and Australia Key people Co-founder and Executive Chairman Eduard Crüsemann Norddeutscher Lloyd (NDL; lit. North German Lloyd) was a German shipping company. It was founded by Hermann Henrich Meier and Eduard Crüsemann in Bremen on 20 February 1857. It developed into one of the most important German shipping companies of the late 19th and early 20th centuries, and was instrumental in the economic development of Bremen and Bremerhaven. On 1 September 1970, the company merged with Hamburg America Line (HAPAG) to form Hapag-Lloyd.</p>
+<p>[[file:image.jpg]] @<span class="citation" data-cites="md">@md</span>:<img src="https://IronShark.org/posts/website-project/5th_test_post/image.jpg" class="img-fluid" alt="This is my awesome caption">@@ <img src="https://latex.codecogs.com/png.latex?E=mc%5E2"></p>
+
+
+
+ ]]></description>
+  <category>website-building</category>
+  <guid>https://IronShark.org/posts/website-project/5th_test_post/</guid>
+  <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://IronShark.org/posts/website-project/5th_test_post/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>6th-and-last-hopefully</title>
+  <dc:creator>Xin IronShark</dc:creator>
+  <link>https://IronShark.org/posts/website-project/6th_and_last_hopefully.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://latex.codecogs.com/png.latex?E=mc%5E2"></p>
+<p>A ship classification society or ship classification organisation is a non-governmental organization that establishes and maintains technical standards for the construction and operation of ships and offshore structures. Classification societies certify that the construction of a vessel complies with relevant standards and carry out regular surveys in service to ensure continuing compliance with the standards. Currently, more than 50 organizations describe their activities as including marine classification, twelve of which are members of the International Association of Classification Societies.[1]</p>
+<p>A classification certificate issued by a classification society recognised by the proposed ship register is required for a ship's owner to be able to register the ship and to obtain marine insurance on the ship, and may be required to be produced before a ship's entry into some ports or waterways, and may be of interest to charterers and potential buyers. To avoid liability, classification societies explicitly disclaim responsibility for the safety, fitness for purpose, or seaworthiness of the ship, but is a verification only that the vessel is in compliance with the classification standards of the society issuing the classification certificate.[2][3]</p>
+
+
+
+ ]]></description>
+  <guid>https://IronShark.org/posts/website-project/6th_and_last_hopefully.html</guid>
+  <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>omega-sigma</title>
+  <dc:creator>Xin IronShark</dc:creator>
+  <link>https://IronShark.org/posts/omega_sigma/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="sob-emoji" class="level1">
+
+
+
+</section>
+
+ ]]></description>
+  <category>website-building</category>
+  <category>Emacs</category>
+  <guid>https://IronShark.org/posts/omega_sigma/</guid>
+  <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://IronShark.org/posts/omega_sigma/image.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>another-test-post</title>
+  <dc:creator>Xin IronShark</dc:creator>
+  <link>https://IronShark.org/posts/another_test_post.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>Stoney (born Mark Stoney 24 May 1980) is a British musician, songwriter, multi-instrumentalist, producer and performer. To date he has released 3 solo albums and six E.P’s under his performer name of Stoney. Known for his sharp lyrics and classic melodies, he first came to prominence in the “New Yorkshire” music scene (as the NME would label it) in the mid-2000s touring and working alongside acts such as Arctic Monkeys, Long Blondes and Reverend and the Makers. Following relocation to Austin, Texas in 2009, he became a founding member, songwriter and guitarist of acclaimed “dirt-pop” band Bobby Jealousy, who released two full-length albums between 2012 and 2014, before resuming his solo career back in the UK.</p>
+<p>Stoney is also an accomplished producer and co-writer for up and coming talent and has worked with Ivor Novello award-winning Guy Chambers, Rick Rubin, Warren Huart and Tim Palmer. Stoney currently lives and works in Sheffield, England.</p>
+<p>Early career Stoney first appeared on the UK music scene following the release of his debut inventive and homegrown-style album Amber in 2001. A quirky collection of songs written in his teens, and recorded in his Sheffield basement following his escape from his hometown of Croydon, it was independently distributed initially through a few local record shops on his own Holy Moly label. Stoney played all the instruments on the record. In response to the positive public reaction, a full band was formed to take the songs to the stage, and a three track EP of songs from the album, titled Amber EP, was released nationally on Thunderbird Records the next year gaining Stoney his first national radio airplay.</p>
+<p>Stoney signed to Island Records in 2003, teaming up with producers Kevin Bacon and Jon Quarmby (Longpigs, Richard</p>
+<p><img src="https://latex.codecogs.com/png.latex?%60E=mc%5E2%60"></p>
+
+
+
+ ]]></description>
+  <guid>https://IronShark.org/posts/another_test_post.html</guid>
+  <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>alpha-test-post</title>
+  <dc:creator>Kevin Fanning</dc:creator>
+  <link>https://IronShark.org/posts/alpha_test_post.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="hopefully-this-works" class="level1">
+
+
+
+</section>
+
+ ]]></description>
+  <guid>https://IronShark.org/posts/alpha_test_post.html</guid>
+  <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Post With Code</title>
+  <dc:creator>Harlow Malloc</dc:creator>
+  <link>https://IronShark.org/posts/post-with-code/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>This is a post with executable code.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>code</category>
+  <category>analysis</category>
+  <category>website-building</category>
+  <guid>https://IronShark.org/posts/post-with-code/</guid>
+  <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://IronShark.org/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Xin IronShark</dc:creator>
+  <link>https://IronShark.org/posts/a_third_test_blog_post.html</link>
+  <description><![CDATA[ undefined ]]></description>
+  <guid>https://IronShark.org/posts/a_third_test_blog_post.html</guid>
+  <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <link>https://IronShark.org/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>This is the first post in a Quarto blog. Welcome!</p>
+<p><img src="https://IronShark.org/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://IronShark.org/posts/welcome/</guid>
+  <pubDate>Wed, 04 Mar 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Project: Website</title>
+  <link>https://IronShark.org/posts/website-project/website-project.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-title" data-direction="asc">
+        Title
+      </option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+    </select>
+  </div>
+</div>
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1772934898474">
+<div class="thumbnail"><a href="../../posts/website-project/5th_test_post/image.jpg" class="no-external">
+
+</a></div>
+<div class="body">
+
+<div class="delink listing-description"><a href="../../posts/website-project/5th_test_post/image.jpg" class="no-external">
+</a></div>
+</div>
+<div class="metadata">
+<a href="../../posts/website-project/5th_test_post/image.jpg" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1772933939717">
+<div class="thumbnail"><a href="../../posts/website-project/image.jpg" class="no-external">
+
+</a></div>
+<div class="body">
+
+<div class="delink listing-description"><a href="../../posts/website-project/image.jpg" class="no-external">
+</a></div>
+</div>
+<div class="metadata">
+<a href="../../posts/website-project/image.jpg" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="d2Vic2l0ZS1idWlsZGluZw==" data-listing-date-sort="1772859600000" data-listing-file-modified-sort="1772934608894" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="125">
+<div class="thumbnail"><a href="../../posts/website-project/5th_test_post/index.html" class="no-external">
+
+<img loading="lazy" src="https://IronShark.org/posts/website-project/5th_test_post/image.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+
+<div class="delink listing-description"><a href="../../posts/website-project/5th_test_post/index.html" class="no-external">
+From Wikipedia, the free encyclopedia Norddeutscher Lloyd
+</a></div>
+</div>
+<div class="metadata">
+<a href="../../posts/website-project/5th_test_post/index.html" class="no-external">
+<div class="listing-date">
+Mar 7, 2026
+</div>
+<div class="listing-reading-time">1 min</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1772859600000" data-listing-file-modified-sort="1772921212065" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="163">
+<div class="thumbnail"><a href="../../posts/website-project/6th_and_last_hopefully.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top">&nbsp;</div>
+
+</a></div>
+<div class="body">
+
+<div class="delink listing-description"><a href="../../posts/website-project/6th_and_last_hopefully.html" class="no-external">
+<img src="https://latex.codecogs.com/png.latex?E=mc%5E2">
+</a></div>
+</div>
+<div class="metadata">
+<a href="../../posts/website-project/6th_and_last_hopefully.html" class="no-external">
+<div class="listing-date">
+Mar 7, 2026
+</div>
+<div class="listing-reading-time">1 min</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div> ]]></description>
+  <guid>https://IronShark.org/posts/website-project/website-project.html</guid>
+  <pubDate>Sun, 08 Mar 2026 02:20:37 GMT</pubDate>
+  <media:content url="https://IronShark.org/posts/website-project/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
