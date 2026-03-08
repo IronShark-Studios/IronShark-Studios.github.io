@@ -1,31 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://IronShark.org/about.html</loc>
-    <lastmod>2026-03-07T22:43:57.351Z</lastmod>
+    <loc>https://IronShark.org/archive.html</loc>
+    <lastmod>2026-03-08T02:23:17.322Z</lastmod>
   </url>
   <url>
-    <loc>https://IronShark.org/posts/another_test_post.html</loc>
-    <lastmod>2026-03-07T22:43:57.352Z</lastmod>
+    <loc>https://IronShark.org/project-homepage-template.html</loc>
+    <lastmod>2026-03-08T02:23:17.324Z</lastmod>
   </url>
   <url>
-    <loc>https://IronShark.org/posts/post-with-code/index.html</loc>
-    <lastmod>2026-03-07T22:43:57.352Z</lastmod>
+    <loc>https://IronShark.org/posts/omega_test_post.html</loc>
+    <lastmod>2026-03-08T02:23:17.323Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/posts/website-project/6th_and_last_hopefully.html</loc>
+    <lastmod>2026-03-08T02:23:17.324Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/posts/sigma_test.html</loc>
+    <lastmod>2026-03-08T02:23:17.323Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/posts/alpha_test_post.html</loc>
+    <lastmod>2026-03-08T02:23:17.323Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/blog.html</loc>
+    <lastmod>2026-03-08T02:23:17.322Z</lastmod>
   </url>
   <url>
     <loc>https://IronShark.org/index.html</loc>
-    <lastmod>2026-03-07T22:43:57.351Z</lastmod>
+    <lastmod>2026-03-08T02:23:17.322Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/posts/post-with-code/index.html</loc>
+    <lastmod>2026-03-08T02:23:17.323Z</lastmod>
   </url>
   <url>
     <loc>https://IronShark.org/posts/welcome/index.html</loc>
-    <lastmod>2026-03-07T22:43:57.352Z</lastmod>
+    <lastmod>2026-03-08T02:23:17.324Z</lastmod>
   </url>
   <url>
-    <loc>https://IronShark.org/posts/5th_test_post.html</loc>
-    <lastmod>2026-03-07T22:43:57.351Z</lastmod>
+    <loc>https://IronShark.org/posts/omega_sigma/index.html</loc>
+    <lastmod>2026-03-08T02:23:17.323Z</lastmod>
   </url>
   <url>
-    <loc>https://IronShark.org/posts/6th_and_last_hopefully.html</loc>
-    <lastmod>2026-03-07T22:43:57.352Z</lastmod>
+    <loc>https://IronShark.org/posts/another_test_post.html</loc>
+    <lastmod>2026-03-08T02:23:17.323Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/posts/website-project/website-project.html</loc>
+    <lastmod>2026-03-08T02:23:17.324Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/posts/website-project/5th_test_post/index.html</loc>
+    <lastmod>2026-03-08T02:23:17.324Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/author.html</loc>
+    <lastmod>2026-03-08T02:23:17.322Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/projects.html</loc>
+    <lastmod>2026-03-08T02:23:17.324Z</lastmod>
   </url>
 </urlset>
