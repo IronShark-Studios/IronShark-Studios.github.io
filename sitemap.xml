@@ -2,58 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://IronShark.org/archive.html</loc>
-    <lastmod>2026-03-11T22:34:04.241Z</lastmod>
+    <lastmod>2026-03-11T23:25:17.059Z</lastmod>
   </url>
   <url>
     <loc>https://IronShark.org/project-homepage-template.html</loc>
-    <lastmod>2026-03-11T22:34:04.269Z</lastmod>
+    <lastmod>2026-03-11T23:25:17.112Z</lastmod>
   </url>
   <url>
     <loc>https://IronShark.org/posts/omega_test_post.html</loc>
-    <lastmod>2026-03-11T22:34:04.241Z</lastmod>
+    <lastmod>2026-03-11T23:25:17.059Z</lastmod>
   </url>
   <url>
     <loc>https://IronShark.org/posts/another_test_post.html</loc>
-    <lastmod>2026-03-11T22:34:04.241Z</lastmod>
+    <lastmod>2026-03-11T23:25:17.059Z</lastmod>
   </url>
   <url>
     <loc>https://IronShark.org/posts/omega_sigma/index.html</loc>
-    <lastmod>2026-03-11T22:34:04.241Z</lastmod>
+    <lastmod>2026-03-11T23:25:17.059Z</lastmod>
   </url>
   <url>
     <loc>https://IronShark.org/posts/welcome/index.html</loc>
-    <lastmod>2026-03-11T22:34:04.269Z</lastmod>
+    <lastmod>2026-03-11T23:25:17.112Z</lastmod>
   </url>
   <url>
     <loc>https://IronShark.org/posts/personal-workflows-project/personal-workflows-project.html</loc>
-    <lastmod>2026-03-11T22:34:04.268Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IronShark.org/blog.html</loc>
-    <lastmod>2026-03-11T22:34:04.241Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IronShark.org/index.html</loc>
-    <lastmod>2026-03-11T22:34:04.241Z</lastmod>
+    <lastmod>2026-03-11T23:25:17.086Z</lastmod>
   </url>
   <url>
     <loc>https://IronShark.org/posts/post-with-code/index.html</loc>
-    <lastmod>2026-03-11T22:34:04.269Z</lastmod>
+    <lastmod>2026-03-11T23:25:17.112Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/index.html</loc>
+    <lastmod>2026-03-11T23:25:17.059Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/blog.html</loc>
+    <lastmod>2026-03-11T23:25:17.059Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/posts/personal-workflows-project/quarto_personal_blog/index.html</loc>
+    <lastmod>2026-03-11T23:25:17.086Z</lastmod>
   </url>
   <url>
     <loc>https://IronShark.org/posts/alpha_test_post.html</loc>
-    <lastmod>2026-03-11T22:34:04.241Z</lastmod>
+    <lastmod>2026-03-11T23:25:17.059Z</lastmod>
   </url>
   <url>
     <loc>https://IronShark.org/posts/sigma_test.html</loc>
-    <lastmod>2026-03-11T22:34:04.269Z</lastmod>
+    <lastmod>2026-03-11T23:25:17.112Z</lastmod>
   </url>
   <url>
     <loc>https://IronShark.org/author.html</loc>
-    <lastmod>2026-03-11T22:34:04.241Z</lastmod>
+    <lastmod>2026-03-11T23:25:17.059Z</lastmod>
   </url>
   <url>
     <loc>https://IronShark.org/projects.html</loc>
-    <lastmod>2026-03-11T22:34:04.269Z</lastmod>
+    <lastmod>2026-03-11T23:25:17.112Z</lastmod>
   </url>
 </urlset>

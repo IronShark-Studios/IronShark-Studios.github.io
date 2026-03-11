@@ -10,7 +10,7 @@
 <atom:link href="https://IronShark.org/projects.xml" rel="self" type="application/rss+xml"/>
 <description>This is Kevin Fanning&#39;s personal Blog.</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Wed, 11 Mar 2026 22:34:24 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 23:25:47 GMT</lastBuildDate>
 <item>
   <title>Project: Personal Workflows</title>
   <link>https://IronShark.org/posts/personal-workflows-project/personal-workflows-project.html</link>
@@ -44,7 +44,7 @@
   </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1773268444268">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1773271517086">
 <div class="thumbnail"><a href="../../posts/personal-workflows-project/personal-config.png" class="no-external">
 
 </a></div>
@@ -58,11 +58,60 @@
 </a>
 </div>
 </div>
+<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1773271542964">
+<div class="thumbnail"><a href="../../posts/personal-workflows-project/quarto_personal_blog/index.html" class="no-external">
+
+</a></div>
+<div class="body">
+
+<div class="delink listing-description"><a href="../../posts/personal-workflows-project/quarto_personal_blog/index.html" class="no-external">
+</a></div>
+</div>
+<div class="metadata">
+<a href="../../posts/personal-workflows-project/quarto_personal_blog/index.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-file-modified-sort="1773271517111">
+<div class="thumbnail"><a href="../../posts/personal-workflows-project/quarto_personal_blog/thumbnail.png" class="no-external">
+
+</a></div>
+<div class="body">
+
+<div class="delink listing-description"><a href="../../posts/personal-workflows-project/quarto_personal_blog/thumbnail.png" class="no-external">
+</a></div>
+</div>
+<div class="metadata">
+<a href="../../posts/personal-workflows-project/quarto_personal_blog/thumbnail.png" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="Tml4JTJDV3JpdGluZw==" data-listing-date-sort="1773187200000" data-listing-file-modified-sort="1773271517086" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="thumbnail"><a href="../../posts/personal-workflows-project/quarto_personal_blog/index.html" class="no-external">
+
+<img loading="lazy" src="https://IronShark.org/posts/personal-workflows-project/quarto_personal_blog/thumbnail.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+
+<div class="delink listing-description"><a href="../../posts/personal-workflows-project/quarto_personal_blog/index.html" class="no-external">
+<!-- desc(5A0113B34292)[max=175]:posts/personal-workflows-project/quarto_personal_blog/index.html -->
+</a></div>
+</div>
+<div class="metadata">
+<a href="../../posts/personal-workflows-project/quarto_personal_blog/index.html" class="no-external">
+<div class="listing-date">
+Mar 11, 2026
+</div>
+<div class="listing-reading-time">1 min</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div> ]]></description>
   <guid>https://IronShark.org/posts/personal-workflows-project/personal-workflows-project.html</guid>
-  <pubDate>Wed, 11 Mar 2026 22:34:24 GMT</pubDate>
+  <pubDate>Wed, 11 Mar 2026 23:25:47 GMT</pubDate>
   <media:content url="https://IronShark.org/posts/personal-workflows-project/personal-config.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 </channel>
