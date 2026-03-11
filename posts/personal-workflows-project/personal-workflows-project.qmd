@@ -1,0 +1,15 @@
+---
+title: "Project: Personal Workflows"
+listing:
+  contents: ["./**/*"]
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: true
+  filter-ui: false
+  fields: [image, date, title, reading-time, description]
+image: personal-config.png
+page-layout: full
+title-block-banner: false
+description: "My personal workflows and system configurations for various programs."
+---
