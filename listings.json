@@ -2,8 +2,7 @@
   {
     "listing": "/archive.html",
     "items": [
-      "/posts/personal-workflows-project/personal-workflows-project.html",
-      "/posts/personal-workflows-project/quarto_personal_blog/index.html",
+      "/posts/quarto_personal_blog/index.html",
       "/posts/post-with-code/index.html",
       "/posts/alpha_test_post.html",
       "/posts/sigma_test.html",
@@ -20,10 +19,10 @@
       "/author.html",
       "/blog.html",
       "/index.html",
-      "/posts/personal-workflows-project/personal-workflows-project.html",
       "/projects.html",
-      "/projects/text.html",
-      "/posts/personal-workflows-project/quarto_personal_blog/index.html",
+      "/projects/personal-workflows-project/index.html",
+      "/projects/personal-workflows-project/text.html",
+      "/posts/quarto_personal_blog/index.html",
       "/posts/alpha_test_post.html",
       "/posts/another_test_post.html",
       "/posts/omega_sigma/index.html",
@@ -31,19 +30,12 @@
       "/posts/post-with-code/index.html",
       "/posts/sigma_test.html",
       "/posts/welcome/index.html"
-    ]
-  },
-  {
-    "listing": "/posts/personal-workflows-project/personal-workflows-project.html",
-    "items": [
-      "/posts/personal-workflows-project/quarto_personal_blog/index.html"
     ]
   },
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/personal-workflows-project/personal-workflows-project.html",
-      "/posts/personal-workflows-project/quarto_personal_blog/index.html",
+      "/posts/quarto_personal_blog/index.html",
       "/posts/post-with-code/index.html",
       "/posts/alpha_test_post.html",
       "/posts/sigma_test.html",
@@ -54,9 +46,16 @@
     ]
   },
   {
+    "listing": "/projects/personal-workflows-project/index.html",
+    "items": [
+      "/projects/personal-workflows-project/text.html"
+    ]
+  },
+  {
     "listing": "/projects.html",
     "items": [
-      "/projects/text.html"
+      "/projects/personal-workflows-project/index.html",
+      "/projects/personal-workflows-project/text.html"
     ]
   }
 ]
