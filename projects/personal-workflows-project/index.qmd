@@ -8,7 +8,7 @@ listing:
   sort-ui: true
   filter-ui: false
   fields: [image, date, title, reading-time, description]
-image: personal-config.png
+image: thumbnail.png
 page-layout: full
 title-block-banner: false
 description: "My personal workflows and system configurations for various programs."
