@@ -10,7 +10,7 @@
 <atom:link href="https://IronShark.org/projects.xml" rel="self" type="application/rss+xml"/>
 <description>This is Kevin Fanning&#39;s personal Blog.</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Thu, 12 Mar 2026 20:17:24 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 21:26:57 GMT</lastBuildDate>
 <item>
   <title>Project: Personal Workflows</title>
   <link>https://IronShark.org/projects/personal-workflows-project/</link>
@@ -44,7 +44,7 @@
   </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1773346616065" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1773350798078" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
 <div class="thumbnail"><a href="../../projects/personal-workflows-project/text.html" class="no-external">
 
 <!-- img(9CEB782EFEE6)[progressive=false, height=]:listing:projects/personal-workflows-project/text.html -->
@@ -66,8 +66,8 @@
 <div class="listing-no-matching d-none">No matching items</div>
 </div> ]]></description>
   <guid>https://IronShark.org/projects/personal-workflows-project/</guid>
-  <pubDate>Thu, 12 Mar 2026 20:17:24 GMT</pubDate>
-  <media:content url="https://IronShark.org/projects/personal-workflows-project/personal-config.png" medium="image" type="image/png" height="144" width="144"/>
+  <pubDate>Thu, 12 Mar 2026 21:26:57 GMT</pubDate>
+  <media:content url="https://IronShark.org/projects/personal-workflows-project/thumbnail.png" medium="image" type="image/png" height="80" width="144"/>
 </item>
 </channel>
 </rss>
