@@ -1,6 +1,6 @@
 ---
 listing:
-  contents: ["posts/**/*-project.qmd"]
+  contents: projects
   feed: true
   sort: "date desc"
   type: default
