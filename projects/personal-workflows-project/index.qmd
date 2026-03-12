@@ -1,7 +1,7 @@
 ---
 title: "Project: Personal Workflows"
 listing:
-  contents: [""]
+  contents: ["text.md"]
   sort: "date desc"
   type: default
   categories: false
