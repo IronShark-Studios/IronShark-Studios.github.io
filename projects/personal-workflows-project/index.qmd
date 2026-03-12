@@ -1,7 +1,7 @@
 ---
 title: "Project: Personal Workflows"
 listing:
-  contents: ["./**/*"]
+  contents: [""]
   sort: "date desc"
   type: default
   categories: false
