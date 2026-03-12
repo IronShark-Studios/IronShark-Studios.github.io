@@ -1,6 +1,6 @@
 ---
 listing:
-  contents: projects
+  contents: ["projects"]
   feed: true
   sort: "date desc"
   type: default
