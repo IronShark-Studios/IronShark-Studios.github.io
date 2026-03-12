@@ -22,6 +22,7 @@
       "/index.html",
       "/posts/personal-workflows-project/personal-workflows-project.html",
       "/projects.html",
+      "/projects/text.html",
       "/posts/personal-workflows-project/quarto_personal_blog/index.html",
       "/posts/alpha_test_post.html",
       "/posts/another_test_post.html",
@@ -54,6 +55,8 @@
   },
   {
     "listing": "/projects.html",
-    "items": []
+    "items": [
+      "/projects/text.html"
+    ]
   }
 ]
