@@ -1,7 +1,8 @@
 ---
 title: "Project: Personal Workflows"
 listing:
-  contents: ["posts/quarto_personal_blog/index.md"]
+  contents:
+    - ../../posts/quarto_personal_blog/index.md
   sort: "date desc"
   type: default
   categories: false
