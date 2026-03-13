@@ -2,62 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://IronShark.org/archive.html</loc>
-    <lastmod>2026-03-13T20:57:23.385Z</lastmod>
+    <lastmod>2026-03-13T21:00:59.204Z</lastmod>
   </url>
   <url>
     <loc>https://IronShark.org/project-homepage-template.html</loc>
-    <lastmod>2026-03-13T20:57:23.412Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IronShark.org/posts/omega_test_post.html</loc>
-    <lastmod>2026-03-13T20:57:23.385Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IronShark.org/posts/another_test_post.html</loc>
-    <lastmod>2026-03-13T20:57:23.385Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IronShark.org/posts/sigma_test.html</loc>
-    <lastmod>2026-03-13T20:57:23.410Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IronShark.org/posts/alpha_test_post.html</loc>
-    <lastmod>2026-03-13T20:57:23.385Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IronShark.org/projects/personal-workflows-project/index.html</loc>
-    <lastmod>2026-03-13T20:57:23.412Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IronShark.org/index.html</loc>
-    <lastmod>2026-03-13T20:57:23.385Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IronShark.org/blog.html</loc>
-    <lastmod>2026-03-13T20:57:23.385Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IronShark.org/posts/post-with-code/index.html</loc>
-    <lastmod>2026-03-13T20:57:23.385Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IronShark.org/posts/welcome/index.html</loc>
-    <lastmod>2026-03-13T20:57:23.410Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IronShark.org/posts/omega_sigma/index.html</loc>
-    <lastmod>2026-03-13T20:57:23.385Z</lastmod>
+    <lastmod>2026-03-13T21:00:59.230Z</lastmod>
   </url>
   <url>
     <loc>https://IronShark.org/posts/quarto_personal_blog/index.html</loc>
-    <lastmod>2026-03-13T20:57:23.385Z</lastmod>
+    <lastmod>2026-03-13T21:00:59.205Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/blog.html</loc>
+    <lastmod>2026-03-13T21:00:59.204Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/index.html</loc>
+    <lastmod>2026-03-13T21:00:59.204Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/projects/personal-workflows-project/index.html</loc>
+    <lastmod>2026-03-13T21:00:59.231Z</lastmod>
   </url>
   <url>
     <loc>https://IronShark.org/author.html</loc>
-    <lastmod>2026-03-13T20:57:23.385Z</lastmod>
+    <lastmod>2026-03-13T21:00:59.204Z</lastmod>
   </url>
   <url>
     <loc>https://IronShark.org/projects.html</loc>
-    <lastmod>2026-03-13T20:57:23.412Z</lastmod>
+    <lastmod>2026-03-13T21:00:59.230Z</lastmod>
   </url>
 </urlset>
