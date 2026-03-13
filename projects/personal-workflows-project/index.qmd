@@ -1,5 +1,5 @@
 ---
-title: "Project: Personal Workflows"
+title: "Personal Workflows"
 listing:
   contents:
     - ../../posts/quarto_personal_blog/index.md
@@ -12,5 +12,5 @@ listing:
 image: thumbnail.png
 page-layout: full
 title-block-banner: false
-description: "My personal workflows and system configurations for various programs."
+description: "Posts relating to my personal workflows and system configurations for various programs."
 ---
