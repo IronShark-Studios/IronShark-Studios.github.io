@@ -33,7 +33,9 @@
   },
   {
     "listing": "/projects/personal-workflows-project/index.html",
-    "items": []
+    "items": [
+      "/posts/quarto_personal_blog/index.html"
+    ]
   },
   {
     "listing": "/blog.html",
