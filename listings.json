@@ -21,7 +21,6 @@
       "/index.html",
       "/projects.html",
       "/projects/personal-workflows-project/index.html",
-      "/projects/personal-workflows-project/text.html",
       "/posts/quarto_personal_blog/index.html",
       "/posts/alpha_test_post.html",
       "/posts/another_test_post.html",
@@ -31,6 +30,10 @@
       "/posts/sigma_test.html",
       "/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/projects/personal-workflows-project/index.html",
+    "items": []
   },
   {
     "listing": "/blog.html",
@@ -46,16 +49,9 @@
     ]
   },
   {
-    "listing": "/projects/personal-workflows-project/index.html",
-    "items": [
-      "/projects/personal-workflows-project/text.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": [
-      "/projects/personal-workflows-project/index.html",
-      "/projects/personal-workflows-project/text.html"
+      "/projects/personal-workflows-project/index.html"
     ]
   }
 ]
