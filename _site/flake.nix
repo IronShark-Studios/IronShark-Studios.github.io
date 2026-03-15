@@ -16,9 +16,9 @@
           buildInputs = with pkgs; [
             git
 
-            # Scientific publishing engine
+            # Publishing engine
             quarto
-            
+
             # Required for executing Jupyter notebooks and Python code blocks!
             python3
             python3Packages.jupyter
@@ -29,7 +29,9 @@
             echo "Quarto version: $(quarto --version)"
             echo "Python version: $(python3 --version)"
             echo "=========================================="
+            echo "=========================================="
             echo "Run 'quarto preview' to start the live server."
+            echo "=========================================="
           '';
         };
       }

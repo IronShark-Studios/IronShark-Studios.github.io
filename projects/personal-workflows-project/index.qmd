@@ -1,8 +1,8 @@
 ---
-title: "Personal Workflows"
+title: "Configuration Files and Workflows"
 listing:
   contents:
-    - ../../posts/quarto_personal_blog/index.md
+    - ../../posts/personal_website_configuration/index.md
   sort: "date desc"
   type: default
   categories: false

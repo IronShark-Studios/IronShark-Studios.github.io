@@ -22,3 +22,7 @@ about:
 # Welcome!
 
 This is my personal blog. I write about a variety of subjects. Including Programming, Art, and Self Education.
+
+# LLM Usage
+
+This blog is entirely non-monetized. I use it as an outlet for personal expression, to hone my writing skills, and to measure my understanding of subjects by sharing what I have learned. Use LLMs does not noticable enhance any of those goals. So content is hand written, for better or worse. However, I do use LLMs for thumbnails or graphics, and as part of my programming workflow.
