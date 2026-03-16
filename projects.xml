@@ -10,7 +10,7 @@
 <atom:link href="https://IronShark.org/projects.xml" rel="self" type="application/rss+xml"/>
 <description>This is Kevin Fanning&#39;s personal Blog.</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Mon, 16 Mar 2026 00:04:30 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Mar 2026 08:39:22 GMT</lastBuildDate>
 <item>
   <title>Configuration Files and Workflows</title>
   <link>https://IronShark.org/projects/personal-workflows-project/</link>
@@ -44,7 +44,7 @@
   </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Tml4JTJDUXVhcnRvJTJDV3JpdGluZw==" data-listing-date-sort="1773446400000" data-listing-file-modified-sort="1773619453025" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="710">
+<div class="quarto-post image-right" data-index="0" data-categories="Tml4JTJDUXVhcnRvJTJDV3JpdGluZw==" data-listing-date-sort="1773446400000" data-listing-file-modified-sort="1773650341537" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="710">
 <div class="thumbnail"><a href="../../posts/personal_website_configuration/index.html" class="no-external">
 
 <img loading="lazy" src="https://IronShark.org/posts/personal_website_configuration/thumbnail.png" class="thumbnail-image">
@@ -71,7 +71,7 @@ Mar 14, 2026
 <div class="listing-no-matching d-none">No matching items</div>
 </div> ]]></description>
   <guid>https://IronShark.org/projects/personal-workflows-project/</guid>
-  <pubDate>Mon, 16 Mar 2026 00:04:30 GMT</pubDate>
+  <pubDate>Mon, 16 Mar 2026 08:39:22 GMT</pubDate>
   <media:content url="https://IronShark.org/projects/personal-workflows-project/thumbnail.png" medium="image" type="image/png" height="80" width="144"/>
 </item>
 </channel>
