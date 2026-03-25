@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://IronShark.org/author.html</loc>
-    <lastmod>2026-03-15T23:54:52.543Z</lastmod>
+    <lastmod>2026-03-16T00:03:22.143Z</lastmod>
   </url>
   <url>
     <loc>https://IronShark.org/posts/alpha_test_post.html</loc>
@@ -75,5 +75,9 @@
   <url>
     <loc>https://IronShark.org/posts/personal_website_configuration/index.html</loc>
     <lastmod>2026-03-15T23:02:19.950Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/posts/the_library_at_mount_char/index.html</loc>
+    <lastmod>2026-03-25T14:39:54.435Z</lastmod>
   </url>
 </urlset>

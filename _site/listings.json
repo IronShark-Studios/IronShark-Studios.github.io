@@ -9,6 +9,7 @@
   {
     "listing": "/archive.html",
     "items": [
+      "/posts/the_library_at_mount_char/index.html",
       "/posts/quarto_personal_blog/index.html",
       "/posts/personal_website_configuration/index.html"
     ]
@@ -16,6 +17,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/the_library_at_mount_char/index.html",
       "/posts/quarto_personal_blog/index.html",
       "/posts/personal_website_configuration/index.html"
     ]
@@ -35,6 +37,7 @@
       "/index.html",
       "/projects.html",
       "/projects/personal-workflows-project/index.html",
+      "/posts/the_library_at_mount_char/index.html",
       "/posts/quarto_personal_blog/index.html",
       "/posts/personal_website_configuration/index.html"
     ]
