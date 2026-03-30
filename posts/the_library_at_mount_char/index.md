@@ -5,7 +5,7 @@ date: 2026-03-25
 description: Book review of \"The Library at Mount Char\".
 draft: false
 image: thumbnail.jpg
-title: The Library at Mount Char
+title: "Book Review: The Library at Mount Char"
 ---
 
 ```{=org}
@@ -49,7 +49,7 @@ Throughout the story *all* the characters do horrific things. It is
 almost overwhelming at the beginning. There really does not seem to be
 anybody to \"root for\", and the more you learn about each character the
 less you want *any* of them to succeed. But, as you learn more about the
-world in which they exist it starts to feel much less random. May not
+world in which they exist it starts to feel much less random. May be not
 the individual actions of the characters. A lot of that does not start
 to make sense until the end. But the characters them selves make sense.
 Who they are, and *why* they are the way they are.
