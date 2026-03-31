@@ -1,7 +1,7 @@
 ---
 author: Xin IronShark
 categories: Analytic_Theology
-date: 2026-03-30
+date: 2026-03-31
 description: Part one of my read through of the core Abrahamic religous
   texts.
 draft: false
