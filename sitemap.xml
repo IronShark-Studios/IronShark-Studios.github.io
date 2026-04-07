@@ -2,50 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://IronShark.org/posts/book_review_a_memory_called_empire/index.html</loc>
-    <lastmod>2026-03-31T12:34:36.533Z</lastmod>
+    <lastmod>2026-04-07T13:57:24.625Z</lastmod>
   </url>
   <url>
-    <loc>https://IronShark.org/posts/the_library_at_mount_char/index.html</loc>
-    <lastmod>2026-03-31T12:34:36.632Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IronShark.org/posts/genesis_the_origins_of_abrahamic_faith/index.html</loc>
-    <lastmod>2026-03-31T12:34:36.534Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IronShark.org/projects.html</loc>
-    <lastmod>2026-03-31T12:34:36.633Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IronShark.org/archive.html</loc>
-    <lastmod>2026-03-31T12:34:36.533Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IronShark.org/author.html</loc>
-    <lastmod>2026-03-31T12:34:36.533Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IronShark.org/projects/personal-workflows-project/index.html</loc>
-    <lastmod>2026-03-31T12:34:36.633Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IronShark.org/project-homepage-template.html</loc>
-    <lastmod>2026-03-31T12:34:36.633Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IronShark.org/index.html</loc>
-    <lastmod>2026-03-31T12:34:36.533Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IronShark.org/blog.html</loc>
-    <lastmod>2026-03-31T12:34:36.533Z</lastmod>
+    <loc>https://IronShark.org/posts/exodus_leviticus_numbers/index.html</loc>
+    <lastmod>2026-04-07T13:57:24.625Z</lastmod>
   </url>
   <url>
     <loc>https://IronShark.org/posts/personal_website_configuration/index.html</loc>
-    <lastmod>2026-03-31T12:34:36.577Z</lastmod>
+    <lastmod>2026-04-07T13:57:24.722Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/blog.html</loc>
+    <lastmod>2026-04-07T13:57:24.624Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/index.html</loc>
+    <lastmod>2026-04-07T13:57:24.624Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/project-homepage-template.html</loc>
+    <lastmod>2026-04-07T13:57:24.781Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/projects/personal-workflows-project/index.html</loc>
+    <lastmod>2026-04-07T13:57:24.781Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/author.html</loc>
+    <lastmod>2026-04-07T13:57:24.624Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/archive.html</loc>
+    <lastmod>2026-04-07T13:57:24.624Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/projects.html</loc>
+    <lastmod>2026-04-07T13:57:24.781Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/posts/genesis_the_origins_of_abrahamic_faith/index.html</loc>
+    <lastmod>2026-04-07T13:57:24.674Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IronShark.org/posts/the_library_at_mount_char/index.html</loc>
+    <lastmod>2026-04-07T13:57:24.780Z</lastmod>
   </url>
   <url>
     <loc>https://IronShark.org/posts/quarto_personal_blog/index.html</loc>
-    <lastmod>2026-03-31T12:34:36.609Z</lastmod>
+    <lastmod>2026-04-07T13:57:24.754Z</lastmod>
   </url>
 </urlset>
