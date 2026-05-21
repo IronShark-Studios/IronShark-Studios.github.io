@@ -9,7 +9,7 @@
 <link>https://IronShark.org/blog.html</link>
 <atom:link href="https://IronShark.org/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This is Kevin Fanning&#39;s personal Blog.</description>
-<generator>quarto-1.9.36</generator>
+<generator>quarto-1.9.37</generator>
 <lastBuildDate>Thu, 02 Apr 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Exodus, Leviticus, Numbers</title>
@@ -64,7 +64,7 @@
   <category>Analytic_Theology</category>
   <guid>https://IronShark.org/posts/exodus_leviticus_numbers/</guid>
   <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://IronShark.org/posts/exodus_leviticus_numbers/thumbnail.png" medium="image" type="image/png" height="80" width="144"/>
+  <media:content url="https://IronShark.org/posts/exodus_leviticus_numbers/thumbnail.png" medium="image" type="image/png" height="209" width="144"/>
 </item>
 <item>
   <title>Genesis, The Origins of Abrahamic Faith</title>
